@@ -32,7 +32,7 @@ The project was developed as an academic database systems project, with emphasis
 
 Small retailers often manage products, stock, customers, delivery details, orders, and reviews in separate files or systems. This can lead to overselling, inconsistent prices, incorrect addresses, slow order processing, and unreliable reports.
 
-Retail E-Commerce Core addresses these problems by providing one structured database that:
+SQL Server–backed retail management and analytics system addresses these problems by providing one structured database that:
 
 - Stores products, categories, customers, addresses, orders, order items, and reviews in a consistent relational model.
 - Tracks both stock available in the store and stock reserved for active orders.
