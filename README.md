@@ -5,7 +5,7 @@
 ![Entity Framework](https://img.shields.io/badge/ORM-Entity%20Framework%206-6C3483)
 ![Project Type](https://img.shields.io/badge/Project-Database%20Course-2F81F7)
 
-**Retail E-Commerce Core** is a database-backed desktop application for managing and analysing the essential operations of an online retail business. It combines a normalized **Microsoft SQL Server** database with a **C# Windows Forms** dashboard and supports catalogue browsing, inventory tracking, order monitoring, invoice calculations, customer analytics, and product-performance reporting.
+**SQL Server–backed retail management and analytics system** is a database-backed desktop application for managing and analysing the essential operations of an online retail business. It combines a normalized **Microsoft SQL Server** database with a **C# Windows Forms** dashboard and supports catalogue browsing, inventory tracking, order monitoring, invoice calculations, customer analytics, and product-performance reporting.
 
 The project was developed as an academic database systems project, with emphasis on relational modelling, data integrity, transaction-safe business rules, advanced SQL features, performance optimisation, and application-level database integration.
 
