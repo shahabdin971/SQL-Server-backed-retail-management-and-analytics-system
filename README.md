@@ -1,4 +1,4 @@
-# Retail E-Commerce Core
+# SQL Server–backed retail management and analytics system
 
 ![C#](https://img.shields.io/badge/C%23-.NET%20Framework-512BD4?logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
